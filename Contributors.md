@@ -29,7 +29,7 @@
 - [Ben Berry-Allwood](https://github.com/benberryallwood)
 - Harsh Patel 
   v4mp1r3 (https://github.com/o0o-v4mp1r3-o0o)
-  [Georgia Buchanan](https://github.com/georgiahope)
+  [Georgia Buchanan](https://github.com/georgiahope) 
 - [Vaishnav](https://github.com/vaishnav-sh)
 - [ATK](https://github.com/aungthinnko)
 - [Hong Wei Wu](https://johnnyhwu.github.io/)
